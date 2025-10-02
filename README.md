@@ -35,7 +35,6 @@ The dashboard includes:
 - Successful Logins Over Time (line chart)
 
 ### Screenshots
-Add your images to the `screenshots/` folder and reference them here:
 
 ![Failed Logins](screenshots/Failed_Login.png)
 ![Alerts](screenshots/Alerts.png)
