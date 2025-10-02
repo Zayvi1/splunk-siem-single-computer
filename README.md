@@ -37,9 +37,9 @@ The dashboard includes:
 ### Screenshots
 Add your images to the `screenshots/` folder and reference them here:
 
-![Failed Logins](screenshots/failed_logins.png)
-![Alerts](screenshots/alerts.png)
-![Dashboard](screenshots/dashboard.png)
+![Failed Logins](screenshots/Failed_Login.png)
+![Alerts](screenshots/Alerts.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ## Alert Setup
 - **Search Query:** Counts failed logins > 2 from `TOSHIBATECRA730$`  
